@@ -1,1 +1,1 @@
-# git-demo with tushar and prasad
+# git-demo with Prasad and Tushar
